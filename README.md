@@ -1,8 +1,7 @@
 ## Demo
 
-Here’s how the program looks in action:
+Here’s the program in action:
 
-![Demo](assets/demo.png)
+![Demo GIF](assets/demo.gif)
 
-![Demo](assets/demo.gif)
-
+![Demo Screenshot](assets/demo.png)
